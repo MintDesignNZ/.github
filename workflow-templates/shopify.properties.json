@@ -2,5 +2,5 @@
   "name": "Shopify Theme Check Workflow",
   "description": "Theme Check workflow template for Shopify projects.",
   "iconName": "example-icon",
-  "categories": ["Shopify"]
+  "categories": ["testing","monitoring"]
 }
